@@ -1,6 +1,5 @@
 package powerpackage;
 
-
 import org.junit.Test;
 
 public class powertest {
